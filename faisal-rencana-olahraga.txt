@@ -2,5 +2,7 @@ Rencana Olahraga Faisal
 
 - Gym
   *cek biaya gym
+   ^atur waktu untuk survey
 - Lari Pagi
 - Bulutangkis
+- Jalan Sore
