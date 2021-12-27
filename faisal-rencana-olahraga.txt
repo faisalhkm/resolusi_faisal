@@ -1,4 +1,5 @@
 Rencana Olahraga Faisal
 
 - Gym
+  *cek biaya gym
 - Lari Pagi
