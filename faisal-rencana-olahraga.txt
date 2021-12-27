@@ -2,5 +2,7 @@ Rencana Olahraga Faisal
 
 - Gym
   *cek biaya gym
-- Lari Pagi
+   ^ajak temen untuk gym
+   ^atur jadwal latihan
 - Bulutangkis
+  *beli raket
